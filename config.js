@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'I know 🥰. Love you so much 😘😘',
     messDesc: 'We Will Meet Soon ❤️😘.',
     btnAccept: 'Okiiiii Love You <3',
-    messLink: href='https://t.me/farhanansari_888'
+    messLink: href='https://wa.link/n20mqs'
 }
